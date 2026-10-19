@@ -1,0 +1,42 @@
+[
+  {
+    "number": "01",
+    "title": "Visit and assessment",
+    "description": "We visit the site, listen to what you need and identify technical constraints from the start.",
+    "details": [
+      "A site visit with no obligation",
+      "Measurements and a survey of the existing condition",
+      "Identification of any permits or notifications required"
+    ]
+  },
+  {
+    "number": "02",
+    "title": "Quote and planning",
+    "description": "A detailed quote by phase, with materials, timelines and a works schedule agreed before we start.",
+    "details": [
+      "A quote by phase and by trade",
+      "Material selection with samples",
+      "A works schedule agreed in writing"
+    ]
+  },
+  {
+    "number": "03",
+    "title": "Works on site",
+    "description": "Coordinated crews, an organised site and regular updates on progress and any decisions needed.",
+    "details": [
+      "A single point of contact throughout",
+      "Regular updates with photographs",
+      "Changes discussed and approved before they are carried out"
+    ]
+  },
+  {
+    "number": "04",
+    "title": "Handover and aftercare",
+    "description": "A joint final inspection, correction of small details and support after handover.",
+    "details": [
+      "A joint final inspection",
+      "Small details corrected before handover",
+      "Support during the warranty period"
+    ]
+  }
+]

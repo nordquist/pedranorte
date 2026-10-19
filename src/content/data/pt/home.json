@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "title": "Pedra Norte · Construção e remodelação",
+    "description": "Remodelação e acabamentos em Portugal. Planeamento rigoroso, comunicação direta e acabamentos exigentes, do primeiro contacto à entrega das chaves."
+  },
+  "hero": {
+    "eyebrow": "Construção e remodelação · Portugal",
+    "titleLight": "Construímos",
+    "titleBold": "o que fica.",
+    "body": "Planeamento rigoroso, comunicação direta e acabamentos exigentes — do primeiro contacto à entrega das chaves.",
+    "primaryCta": { "label": "Pedir orçamento", "route": "contact", "hash": "pedido" },
+    "secondaryCta": { "label": "Ver projetos", "route": "projects" },
+    "highlights": ["Planeamento rigoroso", "Comunicação direta", "Acabamentos exigentes"],
+    "discover": "Descobrir",
+    "image": {
+      "src": "/images/p01.jpg",
+      "width": 1280,
+      "height": 720,
+      "alt": "Moradia remodelada em granito e vidro ao anoitecer, com luz quente no interior"
+    }
+  },
+  "about": {
+    "heading": {
+      "eyebrow": "Sobre a Pedra Norte",
+      "title": "Da pedra à casa, com rigor em cada passo.",
+      "description": "Somos uma equipa de três sócios com um princípio simples: dizer o que vamos fazer e fazer o que dissemos. Trabalhamos em remodelações e acabamentos, com atenção ao detalhe e total transparência."
+    },
+    "points": [
+      "Um único interlocutor do início ao fim",
+      "Orçamentos detalhados, por fase",
+      "Obra limpa, organizada e entregue no prazo acordado"
+    ],
+    "cta": { "label": "Falar connosco", "route": "contact" },
+    "image": {
+      "src": "/images/p02.jpg",
+      "width": 768,
+      "height": 1152,
+      "alt": "Mãos de um profissional a assentar um ladrilho cerâmico"
+    }
+  },
+  "services": {
+    "heading": {
+      "eyebrow": "Serviços",
+      "title": "O que fazemos",
+      "description": "Soluções completas de remodelação e acabamentos para particulares e investidores."
+    },
+    "ctaCard": {
+      "title": "Tem outro tipo de obra?",
+      "description": "Fale connosco e avaliamos o seu caso sem compromisso.",
+      "cta": { "label": "Falar connosco", "route": "contact", "hash": "pedido" }
+    }
+  },
+  "process": {
+    "heading": {
+      "eyebrow": "Processo",
+      "title": "Como trabalhamos",
+      "description": "Quatro etapas claras, com decisões e prazos documentados."
+    }
+  },
+  "projects": {
+    "heading": {
+      "eyebrow": "Projetos",
+      "title": "Projetos em destaque",
+      "description": "Exemplos ilustrativos do tipo de obra que realizamos. Os projetos reais serão adicionados à medida que forem concluídos."
+    },
+    "cta": { "label": "Ver todos os projetos", "route": "projects" }
+  },
+  "principles": {
+    "heading": {
+      "eyebrow": "Porquê a Pedra Norte",
+      "title": "Compromissos, não slogans.",
+      "description": "O que pode esperar de nós em todas as obras."
+    },
+    "image": {
+      "src": "/images/p07.jpg",
+      "width": 768,
+      "height": 1152,
+      "alt": "Dois profissionais a rever plantas de obra no terreno"
+    }
+  },
+  "cta": {
+    "titleLight": "Tem",
+    "titleBold": "um projeto em mente?",
+    "body": "Conte-nos o que pretende. Respondemos com uma proposta de visita e um orçamento claro.",
+    "primaryCta": { "label": "Pedir orçamento", "route": "contact", "hash": "pedido" },
+    "secondaryCta": { "label": "Falar connosco", "route": "contact" }
+  },
+  "contact": {
+    "heading": {
+      "eyebrow": "Contactos",
+      "title": "Peça o seu orçamento",
+      "description": "Preencha o formulário ou contacte-nos diretamente. Respondemos o mais brevemente possível."
+    },
+    "image": {
+      "src": "/images/p08.jpg",
+      "width": 1280,
+      "height": 720,
+      "alt": "Rua do centro de Lisboa a preto e branco, com um marcador na localização do escritório"
+    }
+  }
+}

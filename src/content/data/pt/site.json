@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "title": "Pedra Norte · Construção e remodelação",
+    "description": "Remodelação e acabamentos em Portugal. Planeamento rigoroso, comunicação direta e acabamentos exigentes, do primeiro contacto à entrega das chaves.",
+    "tagline": "Da pedra à casa.",
+    "socialImageAlt": "Logótipo Pedra Norte — montanha e casa — sobre fundo de ladrilhos de pedra"
+  },
+  "brand": {
+    "logoAlt": "Símbolo Pedra Norte: montanha e casa",
+    "homeLink": "Pedra Norte — página inicial"
+  },
+  "skipToContent": "Saltar para o conteúdo",
+  "nav": [
+    {
+      "label": "Serviços",
+      "route": "services"
+    },
+    {
+      "label": "Projetos",
+      "route": "projects"
+    },
+    {
+      "label": "Processo",
+      "route": "process"
+    },
+    {
+      "label": "Sobre",
+      "route": "about"
+    },
+    {
+      "label": "Contactos",
+      "route": "contact"
+    }
+  ],
+  "quoteCta": {
+    "label": "Pedir orçamento",
+    "route": "contact",
+    "hash": "pedido"
+  },
+  "menu": {
+    "main": "Navegação principal",
+    "open": "Abrir menu",
+    "close": "Fechar menu",
+    "language": "Idioma"
+  },
+  "footer": {
+    "tagline": "Da pedra à casa.",
+    "legalEntityNote": "Pedra Norte é uma marca de {legalEntity}.",
+    "navigationTitle": "Navegação",
+    "servicesTitle": "Serviços",
+    "legalTitle": "Legal",
+    "legal": [
+      {
+        "label": "Política de Privacidade",
+        "route": "privacy"
+      },
+      {
+        "label": "Termos e condições",
+        "route": "terms"
+      },
+      {
+        "label": "Política de cookies",
+        "route": "cookies"
+      },
+      {
+        "label": "Livro de Reclamações",
+        "href": "https://www.livroreclamacoes.pt/Inicio/"
+      }
+    ],
+    "copyright": "© {year} Pedra Norte. Todos os direitos reservados."
+  },
+  "contact": {
+    "addressLabel": "Morada",
+    "phoneLabel": "Telefone",
+    "emailLabel": "Email",
+    "hoursLabel": "Horário",
+    "hours": "Segunda a sexta · 09:00–19:00"
+  },
+  "ui": {
+    "learnMore": "Saber mais",
+    "viewProject": "Ver projeto",
+    "discover": "Descobrir",
+    "allServices": "Todos os serviços",
+    "allProjects": "Todos os projetos",
+    "includes": "O que inclui",
+    "scope": "Âmbito da obra",
+    "sampleProject": "Projeto exemplo",
+    "breadcrumbHome": "Início"
+  },
+  "notFound": {
+    "eyebrow": "Erro 404",
+    "title": "Esta página não existe.",
+    "description": "O endereço pode estar incorreto ou a página foi removida.",
+    "cta": {
+      "label": "Voltar ao início",
+      "route": "home"
+    }
+  }
+}

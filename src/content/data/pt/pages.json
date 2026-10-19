@@ -1,0 +1,98 @@
+{
+  "services": {
+    "meta": {
+      "title": "Serviços",
+      "description": "Remodelação e reabilitação, acabamentos interiores, pintura, carpintarias e canalizações. Um único responsável do projeto à entrega."
+    },
+    "hero": {
+      "eyebrow": "Serviços",
+      "title": "O que fazemos",
+      "description": "Soluções completas de remodelação e acabamentos para particulares e investidores, com um único interlocutor do início ao fim.",
+      "image": {
+        "src": "/images/p06.jpg",
+        "width": 1152,
+        "height": 768,
+        "alt": "Detalhe de bancada em pedra com luz rasante"
+      }
+    }
+  },
+  "projects": {
+    "meta": {
+      "title": "Projetos",
+      "description": "Exemplos do tipo de obra que realizamos: remodelação de interiores, reabilitação de moradias e acabamentos."
+    },
+    "hero": {
+      "eyebrow": "Projetos",
+      "title": "Projetos em destaque",
+      "description": "Exemplos ilustrativos do tipo de obra que realizamos. Os projetos reais serão adicionados à medida que forem concluídos.",
+      "image": {
+        "src": "/images/p04.jpg",
+        "width": 1152,
+        "height": 768,
+        "alt": "Sala remodelada com pavimento em madeira e paleta neutra"
+      }
+    }
+  },
+  "process": {
+    "meta": {
+      "title": "Processo",
+      "description": "Como trabalhamos: visita e diagnóstico, orçamento e planeamento, execução da obra, entrega e acompanhamento."
+    },
+    "hero": {
+      "eyebrow": "Processo",
+      "title": "Como trabalhamos",
+      "description": "Quatro etapas claras, com decisões e prazos documentados. Sabe sempre em que fase está a obra e o que vem a seguir.",
+      "image": {
+        "src": "/images/p07.jpg",
+        "width": 768,
+        "height": 1152,
+        "alt": "Dois profissionais a rever plantas de obra no terreno"
+      }
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "Sobre",
+      "description": "A Pedra Norte é uma empresa de construção e remodelação fundada por três sócios. Dizemos o que vamos fazer e fazemos o que dissemos."
+    },
+    "hero": {
+      "eyebrow": "Sobre a Pedra Norte",
+      "title": "Da pedra à casa, com rigor em cada passo.",
+      "description": "Somos uma equipa de três sócios com um princípio simples: dizer o que vamos fazer e fazer o que dissemos.",
+      "image": {
+        "src": "/images/p02.jpg",
+        "width": 768,
+        "height": 1152,
+        "alt": "Mãos de um profissional a assentar um ladrilho cerâmico"
+      }
+    },
+    "body": [
+      "A Pedra Norte nasceu da vontade de fazer obras de remodelação de forma diferente: com planeamento, preços claros e comunicação honesta. O nome junta a pedra, o material que dura, ao norte, a direção que nos orienta.",
+      "Trabalhamos em remodelações e acabamentos de apartamentos e moradias, para particulares e investidores. Coordenamos todas as especialidades e mantemos um único interlocutor consigo durante toda a obra.",
+      "Antes de começar, acordamos por escrito o orçamento por fase, os materiais e o calendário. Durante a obra, damos notícias regulares. No fim, fazemos a vistoria em conjunto e só damos a obra por terminada quando estiver como combinado."
+    ],
+    "valuesHeading": {
+      "eyebrow": "Porquê a Pedra Norte",
+      "title": "Compromissos, não slogans.",
+      "description": "O que pode esperar de nós em todas as obras."
+    },
+    "teamNote": "Pedra Norte é uma marca de {legalEntity}."
+  },
+  "contact": {
+    "meta": {
+      "title": "Contactos",
+      "description": "Peça o seu orçamento de remodelação ou acabamentos. Respondemos com uma proposta de visita e um orçamento claro."
+    },
+    "hero": {
+      "eyebrow": "Contactos",
+      "title": "Peça o seu orçamento",
+      "description": "Preencha o formulário ou contacte-nos diretamente. Respondemos o mais brevemente possível.",
+      "image": {
+        "src": "/images/p05.jpg",
+        "width": 1152,
+        "height": 768,
+        "alt": "Moradia com fachada em pedra ao pôr do sol"
+      }
+    }
+  }
+}

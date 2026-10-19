@@ -1,0 +1,100 @@
+{
+  "privacy": {
+    "meta": {
+      "title": "Política de Privacidade",
+      "description": "Como a Pedra Norte trata os dados pessoais recolhidos através deste site, nos termos do RGPD."
+    },
+    "title": "Política de Privacidade",
+    "updated": "Última atualização: outubro de 2026",
+    "notice": "Texto provisório. Deve ser revisto por um jurista antes da publicação definitiva.",
+    "sections": [
+      {
+        "heading": "Responsável pelo tratamento",
+        "paragraphs": [
+          "O responsável pelo tratamento dos dados pessoais recolhidos neste site é {legalEntity}, titular da marca Pedra Norte, com sede em {address}. Pode contactar-nos através de {email}."
+        ]
+      },
+      {
+        "heading": "Dados recolhidos e finalidade",
+        "paragraphs": [
+          "Através do formulário de pedido de orçamento recolhemos o nome, o email e, se os indicar, o telefone, o tipo de obra e a mensagem. Usamos estes dados exclusivamente para responder ao seu pedido e preparar uma proposta.",
+          "A base legal do tratamento é o seu consentimento e as diligências pré-contratuais a seu pedido (artigo 6.º, n.º 1, alíneas a) e b) do RGPD)."
+        ]
+      },
+      {
+        "heading": "Conservação e partilha",
+        "paragraphs": [
+          "Conservamos os dados apenas pelo tempo necessário para responder ao pedido e, havendo contrato, pelos prazos legais aplicáveis. Não vendemos nem cedemos dados a terceiros.",
+          "O envio do formulário é feito através do serviço de email transacional Postmark, que atua como subcontratante."
+        ]
+      },
+      {
+        "heading": "Os seus direitos",
+        "paragraphs": [
+          "Pode pedir a qualquer momento o acesso, a retificação, o apagamento ou a portabilidade dos seus dados, bem como opor-se ao tratamento ou retirar o consentimento, escrevendo para {email}.",
+          "Tem ainda o direito de apresentar reclamação à Comissão Nacional de Proteção de Dados (www.cnpd.pt)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "meta": {
+      "title": "Termos e condições",
+      "description": "Condições de utilização do site da Pedra Norte."
+    },
+    "title": "Termos e condições",
+    "updated": "Última atualização: outubro de 2026",
+    "notice": "Texto provisório. Deve ser revisto por um jurista antes da publicação definitiva.",
+    "sections": [
+      {
+        "heading": "Identificação",
+        "paragraphs": [
+          "Este site é propriedade de {legalEntity}, titular da marca Pedra Norte, com sede em {address}."
+        ]
+      },
+      {
+        "heading": "Conteúdos",
+        "paragraphs": [
+          "Os conteúdos deste site têm carácter informativo. As imagens de projetos identificadas como “projeto exemplo” são ilustrativas e não representam obras realizadas pela Pedra Norte.",
+          "Os pedidos de orçamento enviados através do site não constituem contrato. Qualquer obra é objeto de orçamento e acordo escrito próprios."
+        ]
+      },
+      {
+        "heading": "Propriedade intelectual",
+        "paragraphs": [
+          "A marca, o logótipo e os textos deste site pertencem a {legalEntity} e não podem ser reproduzidos sem autorização."
+        ]
+      },
+      {
+        "heading": "Resolução de litígios",
+        "paragraphs": [
+          "Em caso de litígio de consumo, o consumidor pode recorrer a uma entidade de resolução alternativa de litígios. Mais informação no Portal do Consumidor (www.consumidor.gov.pt). Dispomos também de Livro de Reclamações eletrónico."
+        ]
+      }
+    ]
+  },
+  "cookies": {
+    "meta": {
+      "title": "Política de cookies",
+      "description": "Informação sobre a utilização de cookies no site da Pedra Norte."
+    },
+    "title": "Política de cookies",
+    "updated": "Última atualização: outubro de 2026",
+    "notice": "Texto provisório. Deve ser revisto por um jurista antes da publicação definitiva.",
+    "sections": [
+      {
+        "heading": "Que cookies utilizamos",
+        "paragraphs": [
+          "Este site não utiliza cookies de análise, publicidade ou redes sociais. Apenas podem ser utilizados cookies estritamente necessários ao funcionamento técnico do site, que não exigem consentimento.",
+          "Se no futuro forem adicionadas ferramentas de análise, esta política será atualizada e será pedido o seu consentimento prévio."
+        ]
+      },
+      {
+        "heading": "Como gerir cookies",
+        "paragraphs": [
+          "Pode bloquear ou apagar cookies nas definições do seu navegador. O bloqueio de cookies estritamente necessários pode afetar o funcionamento do site."
+        ]
+      }
+    ]
+  }
+}

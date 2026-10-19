@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "shield-check",
+    "title": "Rigor técnico",
+    "description": "Planeamos cada fase, verificamos medidas e materiais antes de aplicar e registamos o que foi feito."
+  },
+  {
+    "icon": "clock",
+    "title": "Prazos e custos claros",
+    "description": "Calendário e orçamento por fase, acordados por escrito. Qualquer alteração é falada antes de ser executada."
+  },
+  {
+    "icon": "phone",
+    "title": "Comunicação direta",
+    "description": "Um interlocutor único, atualizações regulares e resposta rápida a dúvidas e imprevistos."
+  },
+  {
+    "icon": "layers",
+    "title": "Qualidade de execução",
+    "description": "Materiais adequados a cada utilização e acabamentos conferidos em conjunto antes da entrega."
+  }
+]

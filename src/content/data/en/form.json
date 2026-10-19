@@ -1,0 +1,24 @@
+{
+  "title": "Quote request",
+  "fields": {
+    "name": { "label": "Name", "placeholder": "Your name" },
+    "email": { "label": "Email", "placeholder": "email@example.com" },
+    "phone": { "label": "Phone", "placeholder": "+351 …" },
+    "workType": { "label": "Type of work", "placeholder": "Select an option", "otherOption": "Another type of work" },
+    "message": { "label": "Message", "placeholder": "Briefly describe what you need" }
+  },
+  "consent": {
+    "before": "I accept the ",
+    "link": "Privacy Policy",
+    "after": " and the processing of my data to respond to this request."
+  },
+  "submit": "Send request",
+  "sending": "Sending…",
+  "required": "Required field",
+  "invalidEmail": "Enter a valid email address",
+  "success": {
+    "title": "Request sent.",
+    "description": "Thank you. We will reply as soon as possible, usually within two working days."
+  },
+  "error": "We could not send your request. Please try again or contact us by email or phone."
+}

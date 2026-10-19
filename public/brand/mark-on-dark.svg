@@ -1,0 +1,17 @@
+<svg width="88" height="48" viewBox="0 0 88 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mark" clip-path="url(#clip0_0_4)">
+<path id="Mountain" d="M0.163266 48L14.5306 43.4286L27.7551 30.5306L34.1224 37.3878L38.3673 32.9796L43.2653 27.2653L47.8367 37.551L48.4898 23.1837V12.5714L57.3061 26.1224V21.7143L62.6939 21.8776L53.2245 8.81633L48.4898 8.16327L43.9184 4.91738e-07L29.2245 18.6122L24 19.9184L0.163266 48Z" fill="#E9E9E8"/>
+<path id="House / Left face" d="M44.7347 47.8367L60.5714 32V47.8367H44.7347Z" fill="url(#paint0_linear_0_4)"/>
+<path id="House / Mid face" d="M60.5714 32L73.6327 18.7755V47.8367H60.5714V32Z" fill="#E9E9E8" fill-opacity="0.9"/>
+<path id="House / Right face" d="M73.6327 18.7755L87.8367 32.6531V47.8367H73.6327V18.7755Z" fill="#E9E9E8" fill-opacity="0.96"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_4" x1="44.7347" y1="39.9184" x2="60.5714" y2="39.9184" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E9E9E8" stop-opacity="0.35"/>
+<stop offset="1" stop-color="#E9E9E8" stop-opacity="0.95"/>
+</linearGradient>
+<clipPath id="clip0_0_4">
+<rect width="88" height="48" fill="white"/>
+</clipPath>
+</defs>
+</svg>

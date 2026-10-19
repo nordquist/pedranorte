@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "apartamento-t3",
+    "category": "Interiores",
+    "title": "Apartamento T3 · Remodelação integral",
+    "meta": "Projeto exemplo · Interior",
+    "summary": "Remodelação integral de um apartamento T3: nova distribuição da sala, pavimento em madeira, paredes regularizadas e pintura em tons neutros.",
+    "scope": [
+      "Demolição seletiva e nova distribuição",
+      "Pavimento em madeira maciça",
+      "Regularização e pintura de paredes e tetos",
+      "Rodapés, portas e remates"
+    ],
+    "image": {
+      "src": "/images/p04.jpg",
+      "width": 1152,
+      "height": 768,
+      "alt": "Sala remodelada com pavimento em madeira e paleta neutra"
+    }
+  },
+  {
+    "slug": "moradia-unifamiliar",
+    "category": "Moradias",
+    "title": "Moradia unifamiliar · Reabilitação",
+    "meta": "Projeto exemplo · Exterior e fachada",
+    "summary": "Reabilitação de uma moradia com fachada em pedra: limpeza e refechamento de juntas, nova caixilharia e cobertura revista.",
+    "scope": [
+      "Limpeza e refechamento de juntas da pedra",
+      "Substituição de caixilharia",
+      "Revisão da cobertura e caleiras",
+      "Pintura de elementos exteriores"
+    ],
+    "image": {
+      "src": "/images/p05.jpg",
+      "width": 1152,
+      "height": 768,
+      "alt": "Moradia com fachada em pedra ao pôr do sol"
+    }
+  },
+  {
+    "slug": "cozinha-casa-de-banho",
+    "category": "Acabamentos",
+    "title": "Cozinha e casa de banho · Acabamentos",
+    "meta": "Projeto exemplo · Detalhe",
+    "summary": "Acabamentos de cozinha e casa de banho: bancadas em pedra, revestimentos com juntas alinhadas e remates executados à medida.",
+    "scope": [
+      "Bancadas e revestimentos em pedra natural",
+      "Revestimentos cerâmicos com juntas alinhadas",
+      "Instalação de loiças e torneiras",
+      "Remates e silicones"
+    ],
+    "image": {
+      "src": "/images/p06.jpg",
+      "width": 1152,
+      "height": 768,
+      "alt": "Detalhe de bancada em pedra com luz rasante"
+    }
+  }
+]

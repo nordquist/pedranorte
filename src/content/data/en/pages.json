@@ -1,0 +1,98 @@
+{
+  "services": {
+    "meta": {
+      "title": "Services",
+      "description": "Renovation and refurbishment, interior finishes, painting, joinery and plumbing. One person responsible from project to handover."
+    },
+    "hero": {
+      "eyebrow": "Services",
+      "title": "What we do",
+      "description": "Complete renovation and finishing solutions for homeowners and investors, with one point of contact from start to finish.",
+      "image": {
+        "src": "/images/p06.jpg",
+        "width": 1152,
+        "height": 768,
+        "alt": "Detail of a stone worktop in raking light"
+      }
+    }
+  },
+  "projects": {
+    "meta": {
+      "title": "Projects",
+      "description": "Examples of the work we do: interior renovation, house refurbishment and finishing work."
+    },
+    "hero": {
+      "eyebrow": "Projects",
+      "title": "Featured projects",
+      "description": "Illustrative examples of the work we do. Real projects will be added as they are completed.",
+      "image": {
+        "src": "/images/p04.jpg",
+        "width": 1152,
+        "height": 768,
+        "alt": "Renovated living room with timber floor and a neutral palette"
+      }
+    }
+  },
+  "process": {
+    "meta": {
+      "title": "Process",
+      "description": "How we work: visit and assessment, quote and planning, works on site, handover and aftercare."
+    },
+    "hero": {
+      "eyebrow": "Process",
+      "title": "How we work",
+      "description": "Four clear stages, with decisions and deadlines documented. You always know which stage the work is at and what comes next.",
+      "image": {
+        "src": "/images/p07.jpg",
+        "width": 768,
+        "height": 1152,
+        "alt": "Two professionals reviewing construction plans on site"
+      }
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "About",
+      "description": "Pedra Norte is a construction and renovation company founded by three partners. We say what we will do, and do what we said."
+    },
+    "hero": {
+      "eyebrow": "About Pedra Norte",
+      "title": "From stone to home, with rigour at every step.",
+      "description": "We are a team of three partners with one simple principle: say what we will do, and do what we said.",
+      "image": {
+        "src": "/images/p02.jpg",
+        "width": 768,
+        "height": 1152,
+        "alt": "Hands of a craftsperson laying a ceramic floor tile"
+      }
+    },
+    "body": [
+      "Pedra Norte started from a wish to do renovation work differently: with planning, clear prices and honest communication. The name joins stone (pedra), the material that lasts, with north (norte), the direction that guides us.",
+      "We work on renovations and finishes for apartments and houses, for homeowners and investors. We coordinate every trade and keep one point of contact with you throughout the work.",
+      "Before we start, we agree the quote by phase, the materials and the schedule in writing. During the work, we give regular updates. At the end, we inspect the result together and only consider the job finished when it is as agreed."
+    ],
+    "valuesHeading": {
+      "eyebrow": "Why Pedra Norte",
+      "title": "Commitments, not slogans.",
+      "description": "What you can expect from us on every project."
+    },
+    "teamNote": "Pedra Norte is a brand of {legalEntity}."
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact",
+      "description": "Request a quote for renovation or finishing work. We reply with a site visit proposal and a clear quote."
+    },
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Request your quote",
+      "description": "Fill in the form or contact us directly. We will reply as soon as possible.",
+      "image": {
+        "src": "/images/p05.jpg",
+        "width": 1152,
+        "height": 768,
+        "alt": "Stone-clad house at sunset"
+      }
+    }
+  }
+}

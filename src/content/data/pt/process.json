@@ -1,0 +1,42 @@
+[
+  {
+    "number": "01",
+    "title": "Visita e diagnóstico",
+    "description": "Visitamos o local, ouvimos o que precisa e identificamos condicionantes técnicas logo à partida.",
+    "details": [
+      "Visita ao local sem compromisso",
+      "Levantamento de medidas e do estado do existente",
+      "Identificação de licenças ou comunicações necessárias"
+    ]
+  },
+  {
+    "number": "02",
+    "title": "Orçamento e planeamento",
+    "description": "Orçamento detalhado por fase, com materiais, prazos e calendário de obra acordados antes de começar.",
+    "details": [
+      "Orçamento por fase e por especialidade",
+      "Escolha de materiais com amostras",
+      "Calendário de obra acordado por escrito"
+    ]
+  },
+  {
+    "number": "03",
+    "title": "Execução da obra",
+    "description": "Equipas coordenadas, obra organizada e atualizações regulares sobre o progresso e eventuais decisões.",
+    "details": [
+      "Um interlocutor único durante toda a obra",
+      "Atualizações regulares com fotografias",
+      "Alterações discutidas e aprovadas antes de executar"
+    ]
+  },
+  {
+    "number": "04",
+    "title": "Entrega e acompanhamento",
+    "description": "Vistoria final em conjunto, correção de pormenores e apoio depois da entrega das chaves.",
+    "details": [
+      "Vistoria final em conjunto",
+      "Correção de pormenores antes da entrega",
+      "Apoio no período de garantia"
+    ]
+  }
+]

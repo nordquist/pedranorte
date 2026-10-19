@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "title": "Pedra Norte · Construction and renovation",
+    "description": "Renovation and finishing work in Portugal. Rigorous planning, direct communication and demanding finishes, from first contact to handing over the keys."
+  },
+  "hero": {
+    "eyebrow": "Construction & renovation · Portugal",
+    "titleLight": "We build",
+    "titleBold": "what lasts.",
+    "body": "Rigorous planning, direct communication and demanding finishes — from first contact to handing over the keys.",
+    "primaryCta": { "label": "Request a quote", "route": "contact", "hash": "pedido" },
+    "secondaryCta": { "label": "View projects", "route": "projects" },
+    "highlights": ["Rigorous planning", "Direct communication", "Demanding finishes"],
+    "discover": "Discover",
+    "image": {
+      "src": "/images/p01.jpg",
+      "width": 1280,
+      "height": 720,
+      "alt": "Renovated granite-and-glass house at dusk, with warm light inside"
+    }
+  },
+  "about": {
+    "heading": {
+      "eyebrow": "About Pedra Norte",
+      "title": "From stone to home, with rigour at every step.",
+      "description": "We are a team of three partners with one simple principle: say what we will do, and do what we said. We work on renovations and finishes, with attention to detail and full transparency."
+    },
+    "points": [
+      "One point of contact from start to finish",
+      "Detailed quotes, phase by phase",
+      "A clean, organised site, delivered on the agreed schedule"
+    ],
+    "cta": { "label": "Talk to us", "route": "contact" },
+    "image": {
+      "src": "/images/p02.jpg",
+      "width": 768,
+      "height": 1152,
+      "alt": "Hands of a craftsperson laying a ceramic floor tile"
+    }
+  },
+  "services": {
+    "heading": {
+      "eyebrow": "Services",
+      "title": "What we do",
+      "description": "Complete renovation and finishing solutions for homeowners and investors."
+    },
+    "ctaCard": {
+      "title": "Another type of work?",
+      "description": "Talk to us and we will assess your case with no obligation.",
+      "cta": { "label": "Talk to us", "route": "contact", "hash": "pedido" }
+    }
+  },
+  "process": {
+    "heading": {
+      "eyebrow": "Process",
+      "title": "How we work",
+      "description": "Four clear stages, with decisions and deadlines documented."
+    }
+  },
+  "projects": {
+    "heading": {
+      "eyebrow": "Projects",
+      "title": "Featured projects",
+      "description": "Illustrative examples of the work we do. Real projects will be added as they are completed."
+    },
+    "cta": { "label": "View all projects", "route": "projects" }
+  },
+  "principles": {
+    "heading": {
+      "eyebrow": "Why Pedra Norte",
+      "title": "Commitments, not slogans.",
+      "description": "What you can expect from us on every project."
+    },
+    "image": {
+      "src": "/images/p07.jpg",
+      "width": 768,
+      "height": 1152,
+      "alt": "Two professionals reviewing construction plans on site"
+    }
+  },
+  "cta": {
+    "titleLight": "Have",
+    "titleBold": "a project in mind?",
+    "body": "Tell us what you have in mind. We will reply with a site visit proposal and a clear quote.",
+    "primaryCta": { "label": "Request a quote", "route": "contact", "hash": "pedido" },
+    "secondaryCta": { "label": "Talk to us", "route": "contact" }
+  },
+  "contact": {
+    "heading": {
+      "eyebrow": "Contact",
+      "title": "Request your quote",
+      "description": "Fill in the form or contact us directly. We will reply as soon as possible."
+    },
+    "image": {
+      "src": "/images/p08.jpg",
+      "width": 1280,
+      "height": 720,
+      "alt": "Black-and-white Lisbon street with a pin marking the office location"
+    }
+  }
+}

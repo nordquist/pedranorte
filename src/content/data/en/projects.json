@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "apartamento-t3",
+    "category": "Interiors",
+    "title": "Apartment T3 · Full renovation",
+    "meta": "Sample project · Interior",
+    "summary": "Full renovation of a three-bedroom apartment: a new living-room layout, timber flooring, levelled walls and painting in neutral tones.",
+    "scope": [
+      "Selective demolition and new layout",
+      "Solid timber flooring",
+      "Levelling and painting of walls and ceilings",
+      "Skirtings, doors and trims"
+    ],
+    "image": {
+      "src": "/images/p04.jpg",
+      "width": 1152,
+      "height": 768,
+      "alt": "Renovated living room with timber floor and a neutral palette"
+    }
+  },
+  {
+    "slug": "moradia-unifamiliar",
+    "category": "Houses",
+    "title": "Single-family house · Refurbishment",
+    "meta": "Sample project · Exterior and façade",
+    "summary": "Refurbishment of a house with a stone façade: cleaning and repointing, new window frames and a reviewed roof.",
+    "scope": [
+      "Stone cleaning and repointing",
+      "Window frame replacement",
+      "Roof and gutter review",
+      "Painting of exterior elements"
+    ],
+    "image": {
+      "src": "/images/p05.jpg",
+      "width": 1152,
+      "height": 768,
+      "alt": "Stone-clad house at sunset"
+    }
+  },
+  {
+    "slug": "cozinha-casa-de-banho",
+    "category": "Finishes",
+    "title": "Kitchen and bathroom · Finishes",
+    "meta": "Sample project · Detail",
+    "summary": "Kitchen and bathroom finishes: stone worktops, coverings with aligned joints and made-to-measure trims.",
+    "scope": [
+      "Natural stone worktops and coverings",
+      "Ceramic coverings with aligned joints",
+      "Installation of sanitary ware and taps",
+      "Trims and sealants"
+    ],
+    "image": {
+      "src": "/images/p06.jpg",
+      "width": 1152,
+      "height": 768,
+      "alt": "Detail of a stone worktop in raking light"
+    }
+  }
+]

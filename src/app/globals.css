@@ -1,0 +1,301 @@
+@import "tailwindcss";
+
+/*
+ * Pedra Norte design tokens (Figma: 02 Color, 03 Typography, 04 Layout & Elevation).
+ * Only these tokens are available: Tailwind's default palette and radii are reset.
+ * Semantic colours follow the Figma "Color" collection; Dark is the default mode,
+ * Light is applied to a section with data-theme="light".
+ */
+@theme {
+  --color-*: initial;
+  --color-bg-page: #1b1c1d;
+  --color-bg-surface: #242526;
+  --color-bg-elevated: #2c2d2e;
+  --color-bg-inverse: #f6f6f5;
+  --color-bg-overlay: #101112;
+  --color-text-primary: #e9e9e8;
+  --color-text-secondary: #b4b5b5;
+  --color-text-muted: #8d8e8e;
+  --color-text-inverse: #1b1c1d;
+  --color-border-subtle: #3a3b3c;
+  --color-border-default: #4f5051;
+  --color-border-strong: #8d8e8e;
+  --color-accent-default: #c2ab8c;
+  --color-accent-hover: #dccfbd;
+  --color-accent-subtle: #5e4e38;
+  --color-action-primary-bg: #e9e9e8;
+  --color-action-primary-bg-hover: #ffffff;
+  --color-action-primary-text: #1b1c1d;
+  --color-action-disabled-bg: #3a3b3c;
+  --color-action-disabled-text: #6c6d6d;
+  --color-icon-default: #e9e9e8;
+  --color-icon-muted: #8d8e8e;
+  --color-feedback-success: #5fa37a;
+  --color-feedback-warning: #d9a441;
+  --color-feedback-error: #d2605a;
+  --color-feedback-info: #6c9bc7;
+  --color-transparent: transparent;
+
+  --spacing-2xs: 4px;
+  --spacing-xs: 8px;
+  --spacing-sm: 12px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-2xl: 48px;
+  --spacing-3xl: 64px;
+  --spacing-4xl: 96px;
+  --spacing-5xl: 128px;
+
+  --radius-*: initial;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 8px;
+  --radius-pill: 999px;
+
+  --shadow-*: initial;
+  --shadow-1: 0 2px 8px 0 rgb(0 0 0 / 0.24);
+  --shadow-2: 0 8px 24px 0 rgb(0 0 0 / 0.32);
+  --shadow-3: 0 24px 64px 0 rgb(0 0 0 / 0.4);
+  --shadow-focus: 0 0 0 3px rgb(194 171 140 / 0.5);
+
+  --container-content: 1280px;
+  --container-measure: 760px;
+
+  --font-display: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
+  --font-body: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+[data-theme="light"] {
+  --color-bg-page: #f6f6f5;
+  --color-bg-surface: #ffffff;
+  --color-bg-elevated: #e9e9e8;
+  --color-bg-inverse: #1b1c1d;
+  --color-text-primary: #1b1c1d;
+  --color-text-secondary: #4f5051;
+  --color-text-muted: #6c6d6d;
+  --color-text-inverse: #f6f6f5;
+  --color-border-subtle: #d5d5d4;
+  --color-border-default: #b4b5b5;
+  --color-border-strong: #6c6d6d;
+  --color-accent-default: #7d6749;
+  --color-accent-hover: #5e4e38;
+  --color-accent-subtle: #f1ebe2;
+  --color-action-primary-bg: #1b1c1d;
+  --color-action-primary-bg-hover: #3a3b3c;
+  --color-action-primary-text: #f6f6f5;
+  --color-action-disabled-bg: #d5d5d4;
+  --color-action-disabled-text: #8d8e8e;
+  --color-icon-default: #1b1c1d;
+  --color-icon-muted: #6c6d6d;
+  --color-feedback-success: #3e7a58;
+  --color-feedback-warning: #a87a1f;
+  --color-feedback-error: #b0413b;
+  --color-feedback-info: #44729c;
+  color: var(--color-text-primary);
+}
+
+/* Text styles (Figma: 03 Typography). Tracking values are percentages of font size. */
+@utility type-display-xl {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 88px;
+  letter-spacing: -0.02em;
+}
+@utility type-display-l {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 72px;
+  letter-spacing: -0.02em;
+}
+@utility type-h1 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  letter-spacing: -0.015em;
+}
+@utility type-h2 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: -0.01em;
+}
+@utility type-h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 36px;
+  letter-spacing: -0.005em;
+}
+@utility type-h4 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 30px;
+}
+@utility type-h5 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 26px;
+}
+@utility type-mobile-display {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 50px;
+  letter-spacing: -0.02em;
+}
+@utility type-mobile-h1 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  letter-spacing: -0.015em;
+}
+@utility type-mobile-h2 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+  letter-spacing: -0.01em;
+}
+@utility type-mobile-h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: -0.005em;
+}
+@utility type-eyebrow {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+@utility type-nav {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+@utility type-button-l {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+@utility type-button-m {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+@utility type-body-l {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+}
+@utility type-body-m {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+}
+@utility type-body-s {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+}
+@utility type-label-m {
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.01em;
+}
+@utility type-label-s {
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+@utility type-caption {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+}
+@utility type-number-display {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: 96px;
+  line-height: 96px;
+  letter-spacing: -0.03em;
+}
+
+/* Page container: max 1280 px, margins 20 / 40 / 80 px (mobile / tablet / desktop). */
+@utility container-page {
+  width: 100%;
+  max-width: calc(var(--container-content) + 2 * 80px);
+  margin-inline: auto;
+  padding-inline: 20px;
+  @variant md {
+    padding-inline: 40px;
+  }
+  @variant lg {
+    padding-inline: 80px;
+  }
+}
+
+@layer base {
+  html {
+    background-color: var(--color-bg-page);
+    color-scheme: dark;
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: var(--color-bg-page);
+    color: var(--color-text-primary);
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  :focus-visible {
+    outline: none;
+    box-shadow: var(--shadow-focus);
+  }
+  ::selection {
+    background-color: var(--color-accent-subtle);
+    color: var(--color-text-primary);
+  }
+  [id] {
+    scroll-margin-top: 96px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+  }
+}

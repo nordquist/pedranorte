@@ -1,0 +1,108 @@
+[
+  {
+    "slug": "remodelacao",
+    "icon": "home",
+    "title": "Renovation and refurbishment",
+    "shortTitle": "Renovation",
+    "summary": "Full or partial renovations of apartments and houses, with a single person responsible from project to handover.",
+    "intro": "We handle the complete job: survey, selective demolition, masonry, installations, coverings and finishes. We coordinate every trade and keep one point of contact with you, from day one to handing over the keys.",
+    "includes": [
+      "Survey and assessment of the existing building",
+      "Selective demolition and debris removal",
+      "Masonry, plasterboard and levelling of walls and floors",
+      "Coordination of electrical, plumbing and HVAC work",
+      "Coverings, painting and final finishes",
+      "Site cleaning and a joint final inspection"
+    ],
+    "image": {
+      "src": "/images/p05.jpg",
+      "width": 1152,
+      "height": 768,
+      "alt": "Stone-clad house at sunset"
+    }
+  },
+  {
+    "slug": "acabamentos",
+    "icon": "layers",
+    "title": "Interior finishes",
+    "shortTitle": "Finishes",
+    "summary": "Wall and floor coverings, skirtings, ceilings and trims. The detail that defines the final result.",
+    "intro": "Finishes are the part of the work you see every day. We install ceramic and stone coverings, suspended ceilings, skirtings and trims, with measurements checked before installation and aligned joints.",
+    "includes": [
+      "Ceramic, natural stone and porcelain coverings",
+      "Floating and timber floors",
+      "Suspended ceilings, coving and recessed lighting",
+      "Skirtings, thresholds and sills",
+      "Trims, sealants and joints"
+    ],
+    "image": {
+      "src": "/images/p06.jpg",
+      "width": 1152,
+      "height": 768,
+      "alt": "Detail of a stone worktop in raking light"
+    }
+  },
+  {
+    "slug": "pintura",
+    "icon": "paint-roller",
+    "title": "Painting and coatings",
+    "shortTitle": "Painting",
+    "summary": "Interior and exterior painting, surface preparation and technical or decorative coatings.",
+    "intro": "Good painting depends on preparation. We repair cracks, treat damp and level surfaces before applying paints and coatings suited to each room and exposure.",
+    "includes": [
+      "Surface preparation and repair",
+      "Treatment of cracks and damp",
+      "Interior painting of walls, ceilings and joinery",
+      "Façade and exterior painting",
+      "Technical and decorative coatings"
+    ],
+    "image": {
+      "src": "/images/p04.jpg",
+      "width": 1152,
+      "height": 768,
+      "alt": "Renovated living room with light walls and timber floor"
+    }
+  },
+  {
+    "slug": "carpintaria",
+    "icon": "frame",
+    "title": "Joinery and window frames",
+    "shortTitle": "Joinery",
+    "summary": "Installation of doors, window frames and bespoke joinery with precise fitting.",
+    "intro": "Doors, wardrobes, kitchens and window frames only work well when they are measured and levelled properly. We measure on site, install and adjust each element until it closes and slides as it should.",
+    "includes": [
+      "Interior and entrance doors",
+      "Bespoke wardrobes and furniture",
+      "Kitchen installation",
+      "Window frame and glazing replacement",
+      "Adjustment and repair of existing joinery"
+    ],
+    "image": {
+      "src": "/images/p01.jpg",
+      "width": 1280,
+      "height": 720,
+      "alt": "Large framed windows in a stone house"
+    }
+  },
+  {
+    "slug": "canalizacoes",
+    "icon": "droplets",
+    "title": "Plumbing and installations",
+    "shortTitle": "Plumbing",
+    "summary": "Installation and replacement of water and drainage networks and sanitary fittings.",
+    "intro": "We replace old pipework, fix leaks and install sanitary fittings in kitchens and bathrooms. We pressure-test the networks before closing walls and keep a record of the layout.",
+    "includes": [
+      "Hot and cold water networks",
+      "Drainage and ventilation networks",
+      "Installation of sanitary ware, shower trays and taps",
+      "Leak detection and repair",
+      "Pressure testing before closing walls"
+    ],
+    "image": {
+      "src": "/images/p02.jpg",
+      "width": 768,
+      "height": 1152,
+      "alt": "Craftsperson laying ceramic tiles"
+    }
+  }
+]

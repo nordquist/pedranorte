@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "title": "Pedra Norte · Construction and renovation",
+    "description": "Renovation and finishing work in Portugal. Rigorous planning, direct communication and demanding finishes, from first contact to handing over the keys.",
+    "tagline": "From stone to home.",
+    "socialImageAlt": "Pedra Norte logo — a mountain and a house — on a background of stone tiles"
+  },
+  "brand": {
+    "logoAlt": "Pedra Norte symbol: a mountain and a house",
+    "homeLink": "Pedra Norte — home page"
+  },
+  "skipToContent": "Skip to content",
+  "nav": [
+    {
+      "label": "Services",
+      "route": "services"
+    },
+    {
+      "label": "Projects",
+      "route": "projects"
+    },
+    {
+      "label": "Process",
+      "route": "process"
+    },
+    {
+      "label": "About",
+      "route": "about"
+    },
+    {
+      "label": "Contact",
+      "route": "contact"
+    }
+  ],
+  "quoteCta": {
+    "label": "Request a quote",
+    "route": "contact",
+    "hash": "pedido"
+  },
+  "menu": {
+    "main": "Main navigation",
+    "open": "Open menu",
+    "close": "Close menu",
+    "language": "Language"
+  },
+  "footer": {
+    "tagline": "From stone to home.",
+    "legalEntityNote": "Pedra Norte is a brand of {legalEntity}.",
+    "navigationTitle": "Navigation",
+    "servicesTitle": "Services",
+    "legalTitle": "Legal",
+    "legal": [
+      {
+        "label": "Privacy Policy",
+        "route": "privacy"
+      },
+      {
+        "label": "Terms & conditions",
+        "route": "terms"
+      },
+      {
+        "label": "Cookie policy",
+        "route": "cookies"
+      },
+      {
+        "label": "Complaints Book",
+        "href": "https://www.livroreclamacoes.pt/Inicio/"
+      }
+    ],
+    "copyright": "© {year} Pedra Norte. All rights reserved."
+  },
+  "contact": {
+    "addressLabel": "Address",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "hoursLabel": "Hours",
+    "hours": "Monday to Friday · 09:00–19:00"
+  },
+  "ui": {
+    "learnMore": "Learn more",
+    "viewProject": "View project",
+    "discover": "Discover",
+    "allServices": "All services",
+    "allProjects": "All projects",
+    "includes": "What it includes",
+    "scope": "Scope of work",
+    "sampleProject": "Sample project",
+    "breadcrumbHome": "Home"
+  },
+  "notFound": {
+    "eyebrow": "Error 404",
+    "title": "This page does not exist.",
+    "description": "The address may be wrong or the page has been removed.",
+    "cta": {
+      "label": "Back to home",
+      "route": "home"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "brand": "Pedra Norte",
+  "legalEntity": "HomeCraft Lda",
+  "vatNumber": "",
+  "url": "https://pedranorte.eu",
+  "email": "geral@pedranorte.eu",
+  "phone": "+351 937 613 024",
+  "address": {
+    "street": "Rua das Praças 53, 3° esq",
+    "postalCode": "1200-766",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "countryCode": "PT"
+  }
+}

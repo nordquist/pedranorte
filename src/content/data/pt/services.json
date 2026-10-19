@@ -1,0 +1,108 @@
+[
+  {
+    "slug": "remodelacao",
+    "icon": "home",
+    "title": "Remodelação e reabilitação",
+    "shortTitle": "Remodelação",
+    "summary": "Remodelações integrais ou parciais de apartamentos e moradias, com um único responsável do projeto à entrega.",
+    "intro": "Tratamos da obra completa: levantamento, demolição seletiva, alvenarias, instalações, revestimentos e acabamentos. Coordenamos todas as especialidades e mantemos um único interlocutor consigo, do primeiro dia à entrega das chaves.",
+    "includes": [
+      "Levantamento e diagnóstico do existente",
+      "Demolição seletiva e remoção de entulho",
+      "Alvenarias, pladur e regularização de paredes e pavimentos",
+      "Coordenação de eletricidade, canalização e AVAC",
+      "Revestimentos, pinturas e acabamentos finais",
+      "Limpeza de obra e vistoria final em conjunto"
+    ],
+    "image": {
+      "src": "/images/p05.jpg",
+      "width": 1152,
+      "height": 768,
+      "alt": "Moradia com fachada em pedra ao pôr do sol"
+    }
+  },
+  {
+    "slug": "acabamentos",
+    "icon": "layers",
+    "title": "Acabamentos interiores",
+    "shortTitle": "Acabamentos",
+    "summary": "Revestimentos, rodapés, tetos e remates. O detalhe que define o resultado final.",
+    "intro": "Os acabamentos são a parte da obra que se vê todos os dias. Executamos revestimentos cerâmicos e em pedra, tetos falsos, rodapés e remates com medições conferidas antes de aplicar e juntas alinhadas.",
+    "includes": [
+      "Revestimentos cerâmicos, pedra natural e porcelânico",
+      "Pavimentos flutuantes e em madeira",
+      "Tetos falsos, sancas e iluminação embutida",
+      "Rodapés, soleiras e peitoris",
+      "Remates, silicones e juntas"
+    ],
+    "image": {
+      "src": "/images/p06.jpg",
+      "width": 1152,
+      "height": 768,
+      "alt": "Detalhe de bancada em pedra com luz rasante"
+    }
+  },
+  {
+    "slug": "pintura",
+    "icon": "paint-roller",
+    "title": "Pintura e revestimentos",
+    "shortTitle": "Pintura",
+    "summary": "Pintura interior e exterior, preparação de superfícies e aplicação de revestimentos técnicos e decorativos.",
+    "intro": "Uma boa pintura depende da preparação. Reparamos fissuras, tratamos humidades e regularizamos superfícies antes de aplicar tintas e revestimentos adequados a cada espaço e exposição.",
+    "includes": [
+      "Preparação e reparação de superfícies",
+      "Tratamento de fissuras e humidades",
+      "Pintura interior de paredes, tetos e carpintarias",
+      "Pintura de fachadas e elementos exteriores",
+      "Revestimentos técnicos e decorativos"
+    ],
+    "image": {
+      "src": "/images/p04.jpg",
+      "width": 1152,
+      "height": 768,
+      "alt": "Sala remodelada com paredes claras e pavimento em madeira"
+    }
+  },
+  {
+    "slug": "carpintaria",
+    "icon": "frame",
+    "title": "Carpintarias e caixilharias",
+    "shortTitle": "Carpintaria",
+    "summary": "Montagem de portas, caixilharia e carpintarias à medida, com ajustes rigorosos.",
+    "intro": "Portas, roupeiros, cozinhas e caixilharias só funcionam bem quando estão bem medidas e niveladas. Medimos em obra, instalamos e afinamos cada elemento até fechar e deslizar como deve.",
+    "includes": [
+      "Portas interiores e de entrada",
+      "Roupeiros e mobiliário à medida",
+      "Montagem de cozinhas",
+      "Substituição de caixilharia e vidros",
+      "Afinação e reparação de carpintarias existentes"
+    ],
+    "image": {
+      "src": "/images/p01.jpg",
+      "width": 1280,
+      "height": 720,
+      "alt": "Grandes janelas de caixilharia numa moradia em pedra"
+    }
+  },
+  {
+    "slug": "canalizacoes",
+    "icon": "droplets",
+    "title": "Canalizações e instalações",
+    "shortTitle": "Canalizações",
+    "summary": "Instalação e substituição de redes de água, esgotos e equipamentos sanitários.",
+    "intro": "Substituímos redes antigas, resolvemos fugas e instalamos equipamentos sanitários em cozinhas e casas de banho. Testamos as redes antes de fechar paredes e deixamos registo do traçado.",
+    "includes": [
+      "Redes de água quente e fria",
+      "Redes de esgotos e ventilação",
+      "Instalação de loiças, bases de duche e torneiras",
+      "Deteção e reparação de fugas",
+      "Ensaio de pressão antes de fechar paredes"
+    ],
+    "image": {
+      "src": "/images/p02.jpg",
+      "width": 768,
+      "height": 1152,
+      "alt": "Profissional a assentar revestimento cerâmico"
+    }
+  }
+]

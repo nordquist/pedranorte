@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "shield-check",
+    "title": "Technical rigour",
+    "description": "We plan each phase, check measurements and materials before installing, and record what was done."
+  },
+  {
+    "icon": "clock",
+    "title": "Clear timelines and costs",
+    "description": "A schedule and budget by phase, agreed in writing. Any change is discussed before it is carried out."
+  },
+  {
+    "icon": "phone",
+    "title": "Direct communication",
+    "description": "A single point of contact, regular updates and fast answers to questions and surprises."
+  },
+  {
+    "icon": "layers",
+    "title": "Quality of execution",
+    "description": "Materials suited to each use and finishes checked together before handover."
+  }
+]

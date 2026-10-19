@@ -1,0 +1,24 @@
+{
+  "title": "Pedido de orçamento",
+  "fields": {
+    "name": { "label": "Nome", "placeholder": "O seu nome" },
+    "email": { "label": "Email", "placeholder": "email@exemplo.pt" },
+    "phone": { "label": "Telefone", "placeholder": "+351 …" },
+    "workType": { "label": "Tipo de obra", "placeholder": "Selecione uma opção", "otherOption": "Outro tipo de obra" },
+    "message": { "label": "Mensagem", "placeholder": "Descreva brevemente o que pretende" }
+  },
+  "consent": {
+    "before": "Aceito a ",
+    "link": "Política de Privacidade",
+    "after": " e o tratamento dos meus dados para responder a este pedido."
+  },
+  "submit": "Enviar pedido",
+  "sending": "A enviar…",
+  "required": "Campo obrigatório",
+  "invalidEmail": "Introduza um email válido",
+  "success": {
+    "title": "Pedido enviado.",
+    "description": "Obrigado. Respondemos o mais brevemente possível, normalmente em dois dias úteis."
+  },
+  "error": "Não foi possível enviar o pedido. Tente novamente ou contacte-nos por email ou telefone."
+}
